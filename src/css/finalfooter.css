@@ -1,0 +1,24 @@
+.finalfooter{
+    background-color: #fff;
+    height: 30px;
+    width: 100vw;
+   margin-left: 0px;
+   padding-left: 0%;
+   
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+.orion_data{
+    font-size: 10px;
+    margin-left: 40px;
+    font-weight: 0.9rem;
+    
+    flex-direction: column;
+   
+    
+}
+.number1{
+    margin-left: 1300px;
+    font-size: 10px;
+}
